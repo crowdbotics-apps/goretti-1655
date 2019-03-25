@@ -1,0 +1,3 @@
+rootProject.name = 'goretti_1655'
+
+include ':app'
